@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+}
+.container{
+    width: 60px;
+    height: 100vh;
+}
+.btnn{
+    padding: 10px;
+   text-align: center;
+   font-size: 22px;
+   margin-top: 10px;
+   margin-left: 5px;
+   border: none;
+   background-color: white;
+}
+.logo-cont{
+    width: 60px;
+    height: 60px;
+}
+.logo-cont img{
+   width: 100%;
+   /* border: 1px solid gray; */
+}

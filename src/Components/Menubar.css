@@ -1,0 +1,21 @@
+.menu-container{
+    width: 270px;
+    height: 100vh;
+    border: 1px solid gray;
+    position:absolute;
+    left: 60px;
+    top: 0px;
+    background-color: rgb(237, 232, 225);
+    z-index:1;
+}
+.menu-list{
+    list-style: none;
+    margin-top: 10px;
+    font-weight: 500;
+    padding: 5px;
+}
+li:hover{
+    background-color: rgb(234, 232, 232);
+    /* padding: 5px; */
+    border-radius: 5px;
+}
